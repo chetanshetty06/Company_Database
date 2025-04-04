@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "67ef8eee20485a7614360d2a"
+  },
+  "employee_id": "E001",
+  "dependents": [
+    {
+      "first_name": "Jane Doe",
+      "gender": "Female",
+      "birth_date": "2015-04-10",
+      "relationship": "Daughter"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8eee20485a7614360d2b"
+  },
+  "employee_id": "E002",
+  "dependents": [
+    {
+      "first_name": "Bob Smith",
+      "gender": "Male",
+      "birth_date": "2018-11-22",
+      "relationship": "Son"
+    }
+  ]
+}]

@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "67ef8ee120485a7614360d26"
+  },
+  "name": "AI Development",
+  "project_number": "P202",
+  "location": "New York",
+  "department_number": "D101"
+},
+{
+  "_id": {
+    "$oid": "67ef8ee120485a7614360d27"
+  },
+  "name": "Recruitment System",
+  "project_number": "P203",
+  "location": "Chicago",
+  "department_number": "D102"
+}]

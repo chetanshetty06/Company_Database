@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "67ef8ee720485a7614360d28"
+  },
+  "employee_id": "E001",
+  "name": "Rama",
+  "ssn": "123-45-6789",
+  "address": "123 Main St, NY",
+  "salary": 75000,
+  "gender": "Male",
+  "birth_date": "1990-06-15",
+  "department": "D101",
+  "projects": [
+    {
+      "project_number": "P202",
+      "hours_per_week": 20
+    },
+    {
+      "project_number": "P203",
+      "hours_per_week": 10
+    }
+  ],
+  "supervisor": "E002"
+},
+{
+  "_id": {
+    "$oid": "67ef8ee720485a7614360d29"
+  },
+  "employee_id": "E002",
+  "name": "Alice Smith",
+  "ssn": "987-65-4321",
+  "address": "456 Elm St, SF",
+  "salary": 85000,
+  "gender": "Female",
+  "birth_date": "1988-08-20",
+  "department": "D101",
+  "projects": [
+    {
+      "project_number": "P202",
+      "hours_per_week": 25
+    }
+  ],
+  "supervisor": "E003"
+}]

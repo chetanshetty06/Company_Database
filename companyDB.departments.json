@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "67ef8eda20485a7614360d24"
+  },
+  "name": "Engineering",
+  "number": "D101",
+  "manager": {
+    "employee_id": "E001",
+    "start_date": "2023-01-10"
+  },
+  "locations": [
+    "New York",
+    "San Francisco"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ef8eda20485a7614360d25"
+  },
+  "name": "HR",
+  "number": "D102",
+  "manager": {
+    "employee_id": "E005",
+    "start_date": "2022-09-15"
+  },
+  "locations": [
+    "Chicago"
+  ]
+}]
